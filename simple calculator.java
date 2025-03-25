@@ -33,7 +33,7 @@ public class student {
         } else {
             grade = "F";
         }
-
+# print result
         System.out.println("Grade: " + grade);
 
         scanner.close();
